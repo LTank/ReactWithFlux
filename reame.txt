@@ -1,0 +1,10 @@
+For update all dependencies type "npm update"
+
+In this project i have used:
+
+ - Node: for installing and managing all dependencies.
+ - Browerify: Bundles all css and JS packages and compiles react JSX.
+ - Bootstrap: for CSS.
+ - ESLint: helps with errors and typos in JS, holds me up to bedst practices everytime i hit save.
+ - Gulp: running the build, watching the files for changes, opening a webserver, opening the app, 
+            and autoreloads the hole thing everytime i hit save.
